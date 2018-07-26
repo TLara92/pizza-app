@@ -1,0 +1,6 @@
+python 3.6
+django 1.11
+djangorestframework==3.3.2
+django psycopg2
+PostgreSQL 10.1
+enumchoicefield
