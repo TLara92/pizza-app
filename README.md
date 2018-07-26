@@ -19,7 +19,7 @@
 * pip install -r requirements.txt
 
 ### General Usage Notes
-1. Check the connection with PostgreSQL **./pizza_app/sitting.py**
+1. Check the connection with PostgreSQL **./pizza_app/setting.py**
 2. Run **python manage.py makemigrations**
 3. Run **python manage.py migrate**
 4. Create **superuser** and add/delete/update orders using your admin account
