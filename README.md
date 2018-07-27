@@ -20,10 +20,10 @@
 
 ### General Usage Notes
 1. Check the connection with PostgreSQL **./pizza_app/setting.py**
-2. Run **python manage.py makemigrations**
-3. Run **python manage.py migrate**
-4. Create **superuser** and add/delete/update orders using your admin account
-5. Run **python manage.py test order** for testing the database models and endpoint functions
-6. Run **python manage.py runserver** to run the project on the localhost **http://127.0.0.1:8000**
+2. Run  ``` python manage.py makemigrations```
+3. Run ```python manage.py migrate```
+4. Run ``` python manage.py createsuperuser``` to create superuser and add/delete/update orders using your admin account
+5. Run ```python manage.py test order``` for testing the database models and endpoint functions
+6. Run ```python manage.py runserver``` to run the project on the localhost **http://127.0.0.1:8000**
 
 ##### version 1.0 26.07.2018
